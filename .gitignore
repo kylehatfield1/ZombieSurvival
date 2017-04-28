@@ -1,7 +1,12 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content/KiteDemo
+/Content/InfinityBladeAdversaries
+/Content/InfinityBladeGrassLands
+/Content/InfinityBladeWarriors
+/Content/StarterContent
 *.VC.db
 *.opensdf
 *.opendb
